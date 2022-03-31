@@ -1,6 +1,6 @@
 
 {
-  "name": "ocho",
+  "name": "puttparty",
   "permissions": "NONE",
   "permissions2": "NONE",
   "restriction": "1",
@@ -16,5 +16,5 @@
     }
   ],
   "comType": "0",
-  "description": "ocho blasing 8s "
+  "description": "puttpartygame "
 }
